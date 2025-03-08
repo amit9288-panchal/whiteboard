@@ -1,0 +1,19 @@
+{
+  "name": "exercise",
+  "version": "1.0.0",
+  "description": "Whiteboard exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.15.0",
+    "jest": "^27.0.6"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "uuid": "^8.3.2"
+  }
+}
